@@ -1,6 +1,7 @@
-//! # cellinator
+//! # simcoli
 //!
-//! `cellinator` is a very simple cell simulator. Hopefully it will become more powerfull overtime.
+//! `simcoli` is a very simple cell simulator. Hopefully it will become more powerfull overtime to
+//! represent one or many Escherichia coli bacteria in a scientifically useful way.
 //!
 //! ## Roadmap
 //!

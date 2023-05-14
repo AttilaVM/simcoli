@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "cellsim"
+name = "simcoli"
 version = "0.1.0"
